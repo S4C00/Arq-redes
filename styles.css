@@ -1,0 +1,25 @@
+.franja{
+    width: 1400px;
+    height: 150px;
+    display: flex;
+    align-items: center;
+    color: white;
+}
+.negro{
+    background-color: black;
+}
+
+.franjag{
+    width: 1400px;
+    height: 300px;
+    display: flex;
+    align-items: center;
+    color: white;
+}
+.negrob{
+    background-color: black;
+}
+
+.justificado{
+    text-align:justify;
+}
